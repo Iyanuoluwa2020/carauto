@@ -4,6 +4,9 @@
     box-sizing: content-box;
 
 }
+#fixed{
+    
+}
 .carousel-item{
     max-width:100%;
     height:auto;
@@ -11,36 +14,41 @@
 .carousel-item h2{
    color:orange;
 }
-.carousel-item img{
-    background-color: rgba(14, 0, 0, 0.1);
-    /* position: absolute; */
-}
+
 
 
 
 #THEBEST{
     background-color: rgb(61, 61, 61);
     color: white;
+    height: auto;
 }
 #THEBEST span{
     color: orange;
 }
 #THEBEST h2{
     text-align: center;
-    padding: 20px;
+    padding-top: 20px;
 }
 #THEBEST p{
     text-align: justify;
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
 }
 
 
 #second{
     color: white;
-    height: auto;
+    height: 250px;
     padding: 20px;
 }
 #second h3{
     color: black;
 }
+/* #second span{
+    border-color: brown;
+    border: 5px soild red;
+} */
+
+
+

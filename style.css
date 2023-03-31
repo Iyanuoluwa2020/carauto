@@ -5,7 +5,7 @@
 
 }
 #fixed{
-    
+
 }
 .carousel-item{
     max-width:100%;
@@ -19,7 +19,7 @@
 
 
 #THEBEST{
-    background-color: rgb(61, 61, 61);
+    background-image: url(https://th.bing.com/th/id/R.14b523fc92800922861d0dfbcd23999c?rik=%2fYRrneGiCizoFA&pid=ImgRaw&r=0);
     color: white;
     height: auto;
 }
@@ -39,16 +39,26 @@
 
 #second{
     color: white;
-    height: 250px;
-    padding: 20px;
+    height: auto;
+    /* padding: 20px; */
 }
 #second h3{
     color: black;
 }
-/* #second span{
-    border-color: brown;
-    border: 5px soild red;
-} */
 
+
+
+
+#install{
+    background-color: orange;
+    height: auto;
+}
+#install h3{
+    text-align: center;
+    padding-top:20px;
+}
+#install p{
+    
+}
 
 
